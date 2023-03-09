@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Ana Sayfa</title>
+</head>
+<body style="background-color:cadetblue" >
+    <header>
+        <table border="0" width="1600" height="400" cellpadding="0" cellspacing="0"align="center">
+            <tr>
+                <td><img src="Images/cat.jpg" width="500" height="400" /></td>                
+                <td width="600" height="400" style="background-color:aqua;text-align:center"><h1 style="text-align:center;font-size:50px;">KEDİLER GÜZELDİR</h1><nav><a href="https://www.google.com/" style="text-align:center;font-size:40px">Google</a></nav></td>
+                <td><img src="Images/cat.jpg" width="500" height="400" /></td>
+            </tr>
+        </table>
+    </header>
+    <section>
+        <table border="0" width="1600" height="400"  cellpadding="0" cellspacing="0"align="center">
+            <tr>
+                <td width="700" height="400" style="background-color:yellow">
+                    <ol style="font-size:30px" type="A">
+                       <li>PAPAĞAN</li>
+                       <li>MUHABBET KUŞU</li>
+                       <li>KARGA</li>
+                       <li>AĞAÇKAKAN</li>                      
+                    </ol>
+                </td>
+                <td width="500" height="400" style="background-color:aquamarine"><p style="background-color:aquamarine;font-size:40px;text-align:center">Kuşlar</p><img src="Images/Bird 3.jpg" width="500" height="400" /></td>
+                <td width="400" height="400" style="background-color:yellow">
+                    <ol style="font-size:40px">
+                        <li>ARMUT</li>
+                        <li>ELMA</li>
+                        <li>MUZ</li>
+                        <li>PORTAKAL</li>
+                    </ol>
+                </td>
+            </tr>
+            
+        </table>
+    </section>
+    <section>
+        <article>
+            <table border="0" width="1600" height="400" style="background-color:aqua" cellpadding="0" cellspacing="0"align="center">
+                <tr>
+                    <td><h1 style="font-size:60px">Hayvanların Önemi H<sub>2</sub>O</h1><p style="font-size:40px;text-align:center;font-family:'Leelawadee UI'">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic</p></td>
+                </tr>
+            </table>
+        </article>
+    </section>
+    <footer>
+        <table border="0"width="1600"height="200" cellpadding="0" cellspacing="0"align="center">
+            <tr>
+                <td style="background-color:yellow"><p style="font-size:35px;text-align:center"width="500" height="200">Adres:Dr.Zeki Acar Caddesi</p></td>
+                <td width="600" height="200" style="background-color:aqua"><a href=""><img src="Images/Whatsapp.jpg" width="150"height="200" /></a><a href=""><img src="Images/İnstagram.jpg"width="150"height="200" /></a><a href=""><img src="Images/Pinterest.png"width="150"height="200"/></a><a href=""><img src="Images/Twitter.png"width="150"height="200" /></a></td>
+                <td style="background-color:yellow;text-align:center;font-size:35px"width="500" height="200">TEL:0554 544 5454</td>
+            </tr>
+        </table>
+    </footer>
+</body>
+</html>
